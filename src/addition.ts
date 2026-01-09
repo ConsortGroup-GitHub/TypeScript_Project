@@ -14,11 +14,11 @@ export function addition(a: number, b: number): number {
 
 // Exemple d'utilisation
 
-let a = 12;
+let a = 13;
 let b = 5;
 
 const resultat = addition(a, b);
 
-console.log(`12 + 5 = ${resultat}`);
+// console.log(`13 + 5 = ${resultat}`);
 console.log(a + " + " + b + " = " + resultat);
 console.log("Le résultat de l'addition est de : " + resultat);
