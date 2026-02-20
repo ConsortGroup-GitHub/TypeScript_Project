@@ -22,4 +22,4 @@ const resultat = addition(a, b);
 console.log(a + " + " + b + " = " + resultat);
 console.log("Le résultat de l'addition est de : " + resultat);
 
-// Commentaire à la fin pour faire un test 
+// Commentaire à la fin pour faire un test Avec une modification de ce commentaire. 
